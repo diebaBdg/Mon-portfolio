@@ -1,5 +1,3 @@
-<script>
-// netlify.toml
 [build]
   publish = "."
 
@@ -7,4 +5,3 @@
   from = "/*"
   to = "/index.html"
   status = 200
-</script>
